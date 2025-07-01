@@ -16,7 +16,7 @@ while(i<=n){
     else if(i%5==0){
         list.push("Buzz")
     }
-    else{3
+    else{
         list.push(i)
     }
     i++
